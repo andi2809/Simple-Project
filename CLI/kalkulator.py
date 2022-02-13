@@ -1,14 +1,3 @@
-# name = "Kurniawan Andi Santoso"
-# print(name.startswith("kur")) #false karena k huruf kecil
-#
-# name = ['Kurniawan', 'Andi', 'Santoso']
-# split_ = ' wibu '.join(name)
-# print(split_ + '\n')
-#
-# print(name)
-# print(split_.split("Kurniawan"))
-# print(split_.split(" wibu "))
-# import module
 import sys
 import time
 
