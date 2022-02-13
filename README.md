@@ -8,8 +8,12 @@ this is a repository that contains simple projects that I have ever made, both i
 
 ## CLI
 <ul>
-  <li><a href = "https://github.com/andi2809/Simple-Project/blob/6bab06c9f4873c34d64aaf229a999de020ea3bd0/kalkulator.py">Kalkulator Sederhana</li>
-  <li><a href = "https://github.com/andi2809/Simple-Project/blob/f81aab320157973f7b9479dd26d7c2c68721742d/login.py">Simple Login</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/Fibonacci_number%20Generator.py"> Fibbonacci_number generator</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/kalkulator.py">Kalkulator Sederhana</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/Vending%20Machine.py">OOP Vending Machine</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/reverse%20word.py">Reverse Word</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/login.py">Simple Login</li>
+  <li><a href = "https://github.com/andi2809/Simple-Project/blob/main/CLI/Vowel%20Count.py">Vowel Count</li>
 </ul>
 
 ## GUI
